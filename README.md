@@ -35,3 +35,5 @@ Software engineering assignment 2
 @Suraj: git checkout bug-fix-experimental; git add *; git commit -m "Nineth Commit"
 
 @Pallavi: git checkout bug-fix; git merge bug-fix-experimental; git add *; git commit -m "Eleventh Commit"; git push
+
+@keerthi: git checkout bug-fix; git pull; git add .; git commit -m "Twelfth Commit"; git push
