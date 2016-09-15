@@ -25,3 +25,6 @@ Software engineering assignment 2
 @keerthi: git checkout bug-fix; git add .; git commit -m "Forth Commit"; git push;
 
 @Sunil: git checkout bug-fix; git merge master; git mergetool; git add *; git commit -m "Fifth commit"; git push
+
+@Suraj: git checkout bug-fix; git add *; git commit -m "Sixth Commit"; git push
+
