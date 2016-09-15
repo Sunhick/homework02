@@ -14,8 +14,14 @@ Software engineering assignment 2
 
 @sunil: git init
 
-@keerthi: git add *; git commit -m "zeroth commit"; git push 
+@keerthi: git add *; git commit -m "zeroth commit"; git push
+
+@Suraj: git add *; git commit -m "First Commit"; git push
+
+@Sunil: git add *; git commit -m "Second Commit"; git push
 
 @pallavi: git checkout -b bug-fix;git add *;git commit -m "Third Commit";git push --set-upstream origin bug-fix
 
 @keerthi: git checkout bug-fix; git add .; git commit -m "Forth Commit"; git push;
+
+@Sunil: git checkout bug-fix; git merge master; git mergetool; git add *; git commit -m "Fifth commit"; git push
