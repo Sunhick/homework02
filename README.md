@@ -20,4 +20,24 @@ Software engineering assignment 2
 
 @Sunil: git add *; git commit -m "Second Commit"; git push
 
+@pallavi: git checkout -b bug-fix;git add *;git commit -m "Third Commit";git push --set-upstream origin bug-fix
+
+@keerthi: git checkout bug-fix; git add .; git commit -m "Forth Commit"; git push;
+
+@Sunil: git checkout bug-fix; git merge master; git mergetool; git add *; git commit -m "Fifth commit"; git push
+
+@Suraj: git checkout bug-fix; git add *; git commit -m "Sixth Commit"; git push
+
+@keerthi: git checkout -b bug-fix-experimental; git add .; git commit -m "Seventh Commit"; git push --set-upstream origin bug-fix-experimental
+
+@pallavi: git checkout bug-fix-experimental; git add *; git commit -m "Eighth Commit";git push
+
+@Suraj: git checkout bug-fix-experimental; git add *; git commit -m "Nineth Commit"
+
 @Sunil: git add *; git commit -m "Tenth Commit"; git push
+
+@Pallavi: git checkout bug-fix; git merge bug-fix-experimental; git add *; git commit -m "Eleventh Commit"; git push
+
+@keerthi: git checkout bug-fix; git pull; git add .; git commit -m "Twelfth Commit"; git push
+
+@Sunil: git pull; git checkout master; git merge bug-fix; git mergetool; git add *; git commit -m "Thirteenth Commit"; git push
