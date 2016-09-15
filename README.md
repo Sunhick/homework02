@@ -19,3 +19,5 @@ Software engineering assignment 2
 @pallavi: git checkout -b bug-fix;git add *;git commit -m "Third Commit";git push --set-upstream origin bug-fix
 
 @keerthi: git checkout bug-fix; git add .; git commit -m "Forth Commit"; git push;
+
+@keerthi: git checkout -b bug-fix-experimental; git add .; git commit -m "Seventh Commit"; git push --set-upstream origin bug-fix-experimental
