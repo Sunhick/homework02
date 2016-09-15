@@ -28,3 +28,10 @@ Software engineering assignment 2
 
 @Suraj: git checkout bug-fix; git add *; git commit -m "Sixth Commit"; git push
 
+@keerthi: git checkout -b bug-fix-experimental; git add .; git commit -m "Seventh Commit"; git push --set-upstream origin bug-fix-experimental
+
+@pallavi: git checkout bug-fix-experimental; git add *; git commit -m "Eighth Commit";git push
+
+@Suraj: git checkout bug-fix-experimental; git add *; git commit -m "Nineth Commit"
+
+@Pallavi: git checkout bug-fix; git merge bug-fix-experimental; git add *; git commit -m "Eleventh Commit"; git push
