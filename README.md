@@ -15,3 +15,4 @@ Software engineering assignment 2
 @sunil: git init
 @keerthi: git add *; git commit -m "zeroth commit"; git push 
 
+@pallavi: git checkout -b bug-fix;git add *;git commit -m "Third Commit";git push
