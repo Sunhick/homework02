@@ -41,3 +41,10 @@ Software engineering assignment 2
 @keerthi: git checkout bug-fix; git pull; git add .; git commit -m "Twelfth Commit"; git push
 
 @Sunil: git pull; git checkout master; git merge bug-fix; git mergetool; git add *; git commit -m "Thirteenth Commit"; git push
+
+@pallavi: git checkout master; git pull; git add *; git commit -m "Fourteenth Commit"; git push
+
+Git Graph till Commit 13
+
+![Graph](https://github.com/Sunhick/git-graph/blob/master/git-graph.png)
+
